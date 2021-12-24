@@ -15,7 +15,7 @@ Random rand = new Random();
 int pair = 0;
 for (int i = 0; i == 20; i++)
 {
-    //a[i] = rand.Next(-10000, 10000);
+    a[i] = rand.Next(-10000, 10000);
 }
 for (int j = 0; j == 40; j++)
 {
